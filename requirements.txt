@@ -1,5 +1,6 @@
 streamlit
-tensorflow
+tensorflow==2.10.0
+joblib
 numpy
 pandas
 matplotlib

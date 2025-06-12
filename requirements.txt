@@ -4,5 +4,4 @@ numpy
 pandas
 joblib
 matplotlib
-pyngrok
 scikit-learn

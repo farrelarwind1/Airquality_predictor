@@ -2,6 +2,5 @@ streamlit
 tensorflow
 numpy
 pandas
-joblib
 matplotlib
 scikit-learn
